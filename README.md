@@ -22,11 +22,12 @@
     - 3-1. 홍콩반점 0410 만족과 불만족 고객의 인식
     - 3-2. 솔루션 후 키워드 변화
     - 3-3. 부진 지점 개선 사항 인사이트
-4. **위기 현황 정리 및 개선책**
+4. **위기 현황 정리**
     - 4-1. 솔루션 후 체인점 별 “맛”편차 존재
     - 4-2. 인사 관리의 필요성 제기
     - 4-3. 리뷰 분석 모니터링을 통한 관리 메뉴얼 시스템 수립
     - 4-4. 비즈니스 강점을 살린, 요리 서바이벌 프로그램
+5. **개선책**
 
 
 2024Ⓒ Team project 👾 Nuri Park 👾 Seonghwan Kim 👾 Suhyun Yu  🚀 [Nuri_park HongKongbanjum_project_notion_link](https://www.notion.so/LLM-10cdcdf0254280efbcfed75f124a410e?pvs=4)    
